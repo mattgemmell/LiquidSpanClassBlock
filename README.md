@@ -10,7 +10,7 @@ A basic [Liquid](http://docs.shopify.com/themes/liquid-documentation/basics) / [
 
 Features:
 
-- Block-type tag, i.e. `{% class %} … {% class %}`
+- Block-type tag, i.e. `{% class %} … {% endclass %}`
 
 - Generates HTML output that wraps the contents of the block.
 
